@@ -25,7 +25,7 @@ This project presents a student directory interface built with reusable React co
 - Vite
 - npm
 
-## Screenshot## Screenshot
+## Screenshot
 
 The final UI screenshot will be added here.
 

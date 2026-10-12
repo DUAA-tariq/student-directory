@@ -30,7 +30,7 @@ This project presents a student directory interface built with reusable React co
 The final UI screenshot will be added here.
 
 
-![Student Directory Screenshot](./student-directory-screenshot.png)
+![Student Directory Screenshot](./Student-directory-Screenshot.png)
 
 ## How to Run the Project
 

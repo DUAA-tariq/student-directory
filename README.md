@@ -1,16 +1,54 @@
-# React + Vite
+# Student Directory — SCD Lab Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Student Directory web application developed using React for the Software Construction and Development (SCD) Lab assignment.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project presents a student directory interface built with reusable React components and props. It uses Bootstrap for styling and layout, along with custom CSS to match the required reference design.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive student directory layout
+- Navigation bar and breadcrumb
+- Student profile cards
+- Buttons and pagination
+- Success alert
+- Footer with useful links and contact information
+- Reusable React components and props
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- Bootstrap 5
+- CSS
+- Vite
+- npm
+
+## Screenshot
+
+See the final Student Directory interface below.
+
+![Student Directory Screenshot](./student-directory-screenshot.png)
+
+## How to Run the Project
+
+1. Clone or download this repository.
+2. Open the project folder in a terminal.
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in the terminal.
+
+## Purpose
+
+Created as part of the Software Construction and Development (SCD) Lab assignment to practise React components, props, Bootstrap, and responsive UI development.

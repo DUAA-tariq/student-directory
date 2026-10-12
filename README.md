@@ -31,7 +31,6 @@ See the final Student Directory interface below.
 
 ![Student Directory Screenshot](./student-directory-screenshot.png)
 
-
 ## How to Run the Project
 
 1. Clone or download this repository.
